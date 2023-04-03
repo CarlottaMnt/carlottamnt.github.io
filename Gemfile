@@ -16,16 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-<<<<<<< HEAD
-source "https://rubygems.org"
-
-gem 'github-pages', group: :jekyll_plugins
-
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem 'webrick'
-=======
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -33,8 +24,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo'
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 end
-<<<<<<< HEAD
-gem 'tzinfo-data'
-=======
->>>>>>> 25c30de2b4ce3e3f23559384699bb4b9865d6473
