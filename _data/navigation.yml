@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "About Me"
+    url: /
+
+  - title: "CV"
+    url: /assets/files/CarlottaMontorsiCV.pdf
+
+  - title: "Papers"
+    url: /papers/
+    
+  - title: "Teaching"
+    url: /teaching/
+        
