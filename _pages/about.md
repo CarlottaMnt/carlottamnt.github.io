@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<<<<<<< HEAD
+
 Hi, welcome to my home page! 
 
 I am a doctoral researcher in Economics and Computational Social Sciences at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER), and part of the [DRIVEN](https://driven.uni.lu/) Doctoral Training Unit. 
