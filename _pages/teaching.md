@@ -13,6 +13,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Teaching and Tutorials </center>
 - - -
+**An introduction to UL HPC supercomputers: performances, functionalities and accessibility. 2022-2023** <br/>
+<small>[ <a href="#/" onclick="visib('abstract')">Overview</a> | [Slides][slides]]</small>
+
+<div id="abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
+High-performance computers, also known as supercomputers, are specialized machines that perform highly advanced and complex computing tasks. They can solve problems that are too large or complex for regular computers. 
+Since 2007, the University of Luxembourg (UL) has been operating a sizeable academic HPC facility that remains one of the references for HPC implementations within the country, offering a cutting-edge research infrastructure to Luxembourg public research. 
+In this lunch session, I illustrate the HPC computational abilities. I discuss some UL HPC functionalities. Finally, I present some technical requirements for accessing and using this tool.
+</small><br><br/></div>
+
+[slides]:{{ site.baseurl }}{% link assets/files/HPC_Talk_CompetenceCenter.pdf %}
 
 **Introduction to Machine learning methods. 2022-2023** <br/>
 <small>[ <a href="#/" onclick="visib('tutorial')">Tutorials</a> | [Overview][overview]]</small>
