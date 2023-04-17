@@ -13,14 +13,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Working Papers </center>
 - - -
-**The Ripple Effects of Parental Retirement on Adult Children Well Being: evidence from the UK** (with Andrew Clark). 2023. <br/>
-<small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
-
-<div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper explores the causal impact of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We establish a causal relationship between parental retirement and adult-child well-being and provide evidence for mechanisms that pertain to inter-generational time and financial transfers. We employ two identification strategies: a Fuzzy Regression Discontinuity Design based on the eligibility age for the State Pension and a Differences-in-Difference design based on the provisions of the UK 1995 and UK 2011 Pension Acts. We draw data from the British Household Panel Survey and Understanding Society to follow parents and children up to and after retirement. The findings offer fresh evidence on the societal consequences of policies targeting retirement age.
-</small><br><br/></div>
-
 **Predicting depression in old age: combining life-course data with machine learning** (with Alessio Fusco, Philippe Van Kerm, and Stephane Bordas). 2023. <br/>
+*Revise and Resubmit at **Economics & Human biology** *. <br/>
 <small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][log0-draft] ] </small>
 
 <div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -29,7 +23,7 @@ Depression in old age has negative individual and societal consequences. With ag
 
 [log0-draft]:{{ site.baseurl }}{% link assets/files/WP1_OldWellBeingfromLifeTrajectories_Sequence.pdf %}
 
-**Quality of Government for Environmental Wellbeing?
+**Quality of government for environmental well-being?
 Subnational Evidence from European Regions** (with Andrea Vaccaro). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
@@ -46,9 +40,7 @@ Policymakers should be aware that environmental destruction can be tackled by
 building more effective regional institutions.
 </small><br><br/></div>
 
-
-
-**Spatial comprehensive Well-Being composite indicators: evidence from
+**Spatial comprehensive well-being composite indicators: evidence from
 Italian provinces** (with Chiara Gigliarano). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
 
@@ -58,7 +50,23 @@ This paper proposes spatial comprehensive composite indicators to evaluate the w
 
 [spatial-draft]:{{ site.baseurl }}{% link assets/files/Spatial_indicator.pdf %}
 
-# <center> Published Papers </center>
+# <center> Work in progress </center>
+
+**The ripple effects of parental retirement on adult children well-being: evidence from the UK** (with Andrew Clark). 2023. <br/>
+<small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
+
+<div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper explores the causal impact of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We establish a causal relationship between parental retirement and adult-child well-being and provide evidence for mechanisms that pertain to inter-generational time and financial transfers. We employ two identification strategies: a Fuzzy Regression Discontinuity Design based on the eligibility age for the State Pension and a Differences-in-Difference design based on the provisions of the UK 1995 and UK 2011 Pension Acts. We draw data from the British Household Panel Survey and Understanding Society to follow parents and children up to and after retirement. The findings offer fresh evidence on the societal consequences of policies targeting retirement age.
+</small><br><br/></div>
+
+**The Observable Host: Racial Discrimination in the Airbnb Market. Evidence from New York City** (with Julio Garbers). 2023. <br/>
+<small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
+
+<div id="airbnb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study the presence of racial discrimination on Airbnb, one of the biggest online marketplaces for short-term rentals worldwide. We construct a monthly panel of Airbnb listings running from May 2016 until December 2019 using scraped data. Moreover, we fine-tuned a VIT algorithm, to classify the race of almost 73,000 Airbnb hosts from New York City through their profile pictures. We implement three strategies to measure racial discrimination and how discrimination has changed over time. Our results indicate that the occupancy rates (i.e., the number of bookings) of accommodations offered by Black (Asian) hosts are about 5.4-6.8 (1-1.8) percentage points lower, even though their prices are about 1.2-3.1\% (2\%) lower than those of White hosts. We do not find convincing evidence for lower occupancy rates or prices of Hispanic hosts. Moreover, our results indicate that the occupancy rate and price gap between Black and White hosts are becoming smaller over time. However, our estimates show that the 2016 Airbnb discrimination policy, which reduced the hosts' profile picture size to reduce discrimination against racial minorities, was not effective.
+</small><br><br/></div>
+
+# <center> Pre-PhD Papers </center>
 - - -
 
 **The resilience of the Italian social protection system at the beginning of COVID-19 outbreak: territorial evidence** (with Francesco Figari, Carlo Fiorio, Luca Gandullia). 2020 <br/>
