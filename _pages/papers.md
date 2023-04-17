@@ -24,7 +24,7 @@ Depression in old age has negative individual and societal consequences. With ag
 [log0-draft]:{{ site.baseurl }}{% link assets/files/WP1_OldWellBeingfromLifeTrajectories_Sequence.pdf %}
 
 **Quality of government for environmental well-being?
-Subnational Evidence from European Regions** (with Andrea Vaccaro). 2023. <br/>
+Subnational evidence from european regions** (with Andrea Vaccaro). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
