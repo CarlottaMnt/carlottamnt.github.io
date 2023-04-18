@@ -10,7 +10,7 @@ redirect_from:
 ---
 Hi, welcome to my home page! 
 
-I am a doctoral researcher in Economics and Computational Social Sciences (Joint degree) at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and part of the [DRIVEN](https://driven.uni.lu/) Doctoral Training Unit, at the University of Luxembourg.
+I am a doctoral researcher in Economics and Computational Social Sciences (Joint degree) at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and part of the [DRIVEN](https://driven.uni.lu/) Doctoral Training Unit at the University of Luxembourg.
 
 My interest lies at the intersection of labor economics, well-being economics, machine learning, and discrimination.
 
