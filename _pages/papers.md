@@ -70,7 +70,7 @@ We study the presence of racial discrimination on Airbnb, one of the biggest onl
 - - -
 
 **The resilience of the Italian social protection system at the beginning of COVID-19 outbreak: territorial evidence** (with Francesco Figari, Carlo Fiorio, Luca Gandullia). 2020 <br/>
-<small>[ <a href="#/" onclick="visib('resilience')">Abstract</a> | [Link](https://www.rivisteweb.it/doi/10.1429/97786) ] </small>
+<small>[ <a href="#/" onclick="visib('resilience')">Abstract</a> | [Link](https://www.rivisteweb.it/doi/10.1429/97786){:target="_blank"}] </small>
 *Published at **Journal of Economic Policy***. 
 <div id="resilience" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
