@@ -52,7 +52,7 @@ This paper proposes spatial comprehensive composite indicators to evaluate the w
 
 # <center> Work in progress </center>
 
-**The ripple effects of parental retirement on adult children well-being: evidence from the UK** (with Andrew Clark). 2023. <br/>
+**The trickle down effects of parental retirement on adult children well-being: evidence from the UK** (with Andrew Clark). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
 
 <div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
