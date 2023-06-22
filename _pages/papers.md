@@ -25,6 +25,7 @@ Depression in old age has negative individual and societal consequences. With ag
 
 **Quality of government for environmental well-being?
 Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
+*Submitted at **Regional Studies***. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -40,15 +41,6 @@ Policymakers should be aware that environmental destruction can be tackled by
 building more effective regional institutions.
 </small><br><br/></div>
 
-**Spatial comprehensive well-being composite indicators: evidence from
-Italian provinces** (with Chiara Gigliarano). 2023. <br/>
-<small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
-
-<div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
-</small><br><br/></div>
-
-[spatial-draft]:{{ site.baseurl }}{% link assets/files/Spatial_indicator.pdf %}
 
 # <center> Work in progress </center>
 
@@ -59,7 +51,7 @@ This paper proposes spatial comprehensive composite indicators to evaluate the w
 This paper explores the causal impact of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We establish a causal relationship between parental retirement and adult-child well-being and provide evidence for mechanisms that pertain to inter-generational time and financial transfers. We employ two identification strategies: a Fuzzy Regression Discontinuity Design based on the eligibility age for the State Pension and a Differences-in-Difference design based on the provisions of the UK 1995 and UK 2011 Pension Acts. We draw data from the British Household Panel Survey and Understanding Society to follow parents and children up to and after retirement. The findings offer fresh evidence on the societal consequences of policies targeting retirement age.
 </small><br><br/></div>
 
-**The observable host: racial discrimination in the Airbnb market. Evidence from New York City** (with Julio Garbers). 2023. <br/>
+**Small pictures, big biases: the unintended effects of an airbnb anti-discrimination policy** (with Julio Garbers). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
 
 <div id="airbnb" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -76,6 +68,15 @@ We study the presence of racial discrimination on Airbnb, one of the biggest onl
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
 </small><br><br/></div>
 
+**Spatial comprehensive well-being composite indicators: evidence from
+Italian provinces** (with Chiara Gigliarano). 2023. <br/>
+<small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
+
+<div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
+</small><br><br/></div>
+
+[spatial-draft]:{{ site.baseurl }}{% link assets/files/Spatial_indicator.pdf %}
 
 [//]: This java script is the button to show abstract
 <script>
