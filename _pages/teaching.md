@@ -14,13 +14,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Teaching and Tutorials </center>
 - - -
 **Regression Discontinuity Designs: theory and simulations**. Exeter Reading Group (EMERG), May 2023  <br/>
-<small>[ <a href="#/" onclick="visib('abstractRDD')">Overview</a> | [Slides][slides]]</small>
+<small>[ <a href="#/" onclick="visib('abstractRDD')">Overview</a> | [Slides][slidesRDD]]</small>
 
 <div id="abstractRDD" style="display: none; text-align: justify; line-height: 1.2" ><small>
 I present Sharp Regression Discontinuity Design (RDD) and Fuzzy Design (FRD) for causal inference. I analyze how Ordinary Least Squares (OLS) and Local Linear Polynomial estimators perform when data-generating processes deviate from assumptions. Through simulations, I uncover the consistency and limitations of these estimators in non-ideal scenarios. This lecture fosters a cautious approach to interpretation, highlighting the need to assess estimator behaviour in the presence of assumption mismatches.
 </small><br><br/></div>
 
-[slides]:{{ site.baseurl }}{% link assets/files/EMERG_RDD.pdf %}
+[slidesRDD]:{{ site.baseurl }}{% link assets/files/EMERG_RDD.pdf %}
 
 **An introduction to UL HPC supercomputers: performances, functionalities and accessibility**. Centre of Competence for Data Science and Simulation, February 2023 <br/>
 <small>[ <a href="#/" onclick="visib('abstract')">Overview</a> | [Slides][slides]]</small>
