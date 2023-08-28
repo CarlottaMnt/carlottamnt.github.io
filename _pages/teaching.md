@@ -13,7 +13,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Teaching and Tutorials </center>
 - - -
-**An introduction to UL HPC supercomputers: performances, functionalities and accessibility. 2022-2023** <br/>
+**Regression Discontinuity Designs: theory and simulations**. May 2023, Exeter Reading Group (EMERG) <br/>
+<small>[ <a href="#/" onclick="visib('abstractRDD')">Overview</a> | [Slides][slides]]</small>
+
+<div id="abstractRDD" style="display: none; text-align: justify; line-height: 1.2" ><small>
+In this lecture, I present Regression Discontinuity Design (RDD) and Fuzzy Regression Design (FRD) for causal inference. I analyze how Ordinary Least Squares (OLS) and Local Linear Polynomial estimators perform when data generating processes deviate from assumptions. Through simulations, we uncover the robustness and limitations of these estimators in non-ideal scenarios. This lecture fosters a cautious approach to interpretation, highlighting the need to assess estimator behavior in the presence of assumption mismatches.
+</small><br><br/></div>
+
+[slides]:{{ site.baseurl }}{% link assets/files/EMERG_RDD.pdf %}
+
+**An introduction to UL HPC supercomputers: performances, functionalities and accessibility**. February 2023 <br/>
 <small>[ <a href="#/" onclick="visib('abstract')">Overview</a> | [Slides][slides]]</small>
 
 <div id="abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
