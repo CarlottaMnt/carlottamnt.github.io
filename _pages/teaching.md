@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Teaching and Tutorials </center>
 - - -
-**Regression Discontinuity Designs: theory and simulations**. Exeter Reading Group (EMERG), May 2023  <br/>
+**Regression Discontinuity Designs: theory and simulations** Exeter Reading Group (EMERG), May 2023  <br/>
 <small>[ <a href="#/" onclick="visib('abstractRDD')">Overview</a> | [Slides][slidesRDD]]</small>
 
 <div id="abstractRDD" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -22,7 +22,7 @@ I present Sharp Regression Discontinuity Design (RDD) and Fuzzy Design (FRD) for
 
 [slidesRDD]:{{ site.baseurl }}{% link assets/files/EMERG_RDD.pdf %}
 
-**An introduction to UL HPC supercomputers: performances, functionalities and accessibility**. Centre of Competence for Data Science and Simulation, February 2023 <br/>
+**An introduction to UL HPC supercomputers: performances, functionalities and accessibility** Centre of Competence for Data Science and Simulation, February 2023 <br/>
 <small>[ <a href="#/" onclick="visib('abstract')">Overview</a> | [Slides][slides]]</small>
 
 <div id="abstract" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -33,7 +33,7 @@ In this lunch session, I illustrate the HPC computational abilities. I discuss s
 
 [slides]:{{ site.baseurl }}{% link assets/files/HPC_Talk_CompetenceCenter.pdf %}
 
-**Introduction to Machine learning methods. LISER training course, Januray 2023** <br/>
+**Introduction to Machine learning methods** LISER training course, January 2023 <br/>
 <small>[ <a href="#/" onclick="visib('tutorial')">Tutorials</a> | [Overview][overview]]</small>
 
 <div id="tutorial" style="display: none; text-align: justify; line-height: 1.2">
