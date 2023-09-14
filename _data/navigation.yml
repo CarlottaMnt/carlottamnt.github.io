@@ -5,6 +5,7 @@ main:
 
   - title: "CV"
     url: /assets/files/CarlottaMontorsiCV.pdf
+    target: _blank
 
   - title: "Papers"
     url: /papers/
