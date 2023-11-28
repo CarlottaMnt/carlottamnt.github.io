@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 **Quality of government for environmental well-being?
 Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
-*Submitted***. <br/>
+*Submitted*. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -33,7 +33,7 @@ building more effective regional institutions.
 
 # <center> Publications </center>
 
-**[Predicting depression in old age: combining life-course data with machine learning] (https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)**(with Alessio Fusco, Philippe Van Kerm, and Stephane Bordas). 2023. <br/>
+**[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)**(with Alessio Fusco, Philippe Van Kerm, and Stephane Bordas). 2023. <br/>
 *Forthcoming at **Economics & Human Biology***. <br/>
 <small>[ <a href="#/" onclick="visib('log0')">Abstract</a>] </small>
 
