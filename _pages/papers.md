@@ -33,8 +33,8 @@ building more effective regional institutions.
 
 # <center> Publications </center>
 
-**[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)**(with Alessio Fusco, Philippe Van Kerm, and Stephane Bordas). 2023. <br/>
-*Forthcoming at **Economics & Human Biology***. <br/>
+**[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Alessio Fusco, Philippe Van Kerm, and Stéphane Bordas). 2023. <br/>
+**Economics & Human Biology***. <br/>
 <small>[ <a href="#/" onclick="visib('log0')">Abstract</a>] </small>
 
 <div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
