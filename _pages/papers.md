@@ -34,7 +34,7 @@ building more effective regional institutions.
 # <center> Publications </center>
 
 **[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Alessio Fusco, Philippe Van Kerm, and Stéphane Bordas). 2023. <br/>
-**Economics & Human Biology***. <br/>
+**Economics & Human Biology**. <br/>
 <small>[ <a href="#/" onclick="visib('log0')">Abstract</a>] </small>
 
 <div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -54,7 +54,7 @@ This paper explores the causal effect of parental retirement on adult children's
 <small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
 
 <div id="airbnb" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Ethnic discrimination is still pervasive, and emerging digital platforms, through their design, may create or reinforce discriminatory actions against disadvantaged groups. Using Airbnb longitudinal data in New York City, we first show that Black hosts have 6.5-8 percentage points lower occupancy rates than their White counterparts, likely due to statistical discrimination. Second, we examine the effect of an anti-discrimination policy, like reducing profile picture sizes, in mitigating ethnic discrimination. This design intervention does not effectively close the ethnicity gap in occupancy rates. On the contrary, in the short-run, it intensifies the White-Black disparity by six percentage points. However, in the long-run, we observe discriminated groups counteracting effectively by improving their listing descriptions and closing the newly created gap.
+Using scraped data from the Airbnb platform in New York City alongside innovative face classification algorithms, we show that Black minority hosts have a 6-percentage-point lower occupancy rate compared to their white counterparts, with no pricing differences. For Asians and Hispanics, no significant variations were found. Second, we examine the effect of an Airbnb design change, which reduces the prominence of profile pictures on users' personal pages. Difference-in-differences design and event-study methods reveal this intervention does not narrow the occupancy rate gap. Instead, it amplifies the White-Black disparity by 4 percentage points in the short run. Supporting this finding, we observe that Black hosts negatively affected by the design transformation reacted by offering more basic amenities for their listings immediately after the design transformation. Our research indicates that reducing picture prominence exacerbates biases in detecting positive facial cues from profile pictures, disproportionately impacting Black minority hosts.
 </small><br><br/></div>
 
 # <center> Pre-PhD Papers </center>
