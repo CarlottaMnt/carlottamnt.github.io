@@ -13,19 +13,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Working Papers </center>
 - - -
-**Predicting depression in old age: combining life-course data with machine learning** (with Alessio Fusco, Philippe Van Kerm, and Stephane Bordas). 2023. <br/>
-*Revise and Resubmit at **Economics & Human Biology***. <br/>
-<small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][log0-draft] ] </small>
-
-<div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Depression in old age has negative individual and societal consequences. With ageing populations, understanding life course factors that raise the risk of clinical depression in old age may reduce healthcare costs and guide resources allocation. In this paper, we estimate the risk of self-reported depression by combining adult life course trajectories and childhood conditions in supervised machine learning algorithms. Our contribution is threefold. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we first implement and compare the performance of six alternative machine learning algorithms. Second, we analyse the performance of the algorithms using different life-course data configurations. While we obtain similar predictive abilities between algorithms, we achieve the highest models' performance when employing high-dimensional and less structured data. Finally, we use the SHAP (SHapley Additive exPlanations) method to extract the most decisive depressive patterns by gender. Age, health, childhood conditions, and low education predict most depression risk later in life. In addition, we identify new predictive patterns in high-frequency emotion-enhancing life events and low utilization of dental care services.
-</small><br><br/></div>
-
-[log0-draft]:{{ site.baseurl }}{% link assets/files/WP1_OldWellBeingfromLifeTrajectories_Sequence.pdf %}
-
 **Quality of government for environmental well-being?
 Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
-*Submitted at **Regional Studies***. <br/>
+*Submitted***. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -41,6 +31,15 @@ Policymakers should be aware that environmental destruction can be tackled by
 building more effective regional institutions.
 </small><br><br/></div>
 
+# <center> Publications </center>
+
+**[Predicting depression in old age: combining life-course data with machine learning] (https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)**(with Alessio Fusco, Philippe Van Kerm, and Stephane Bordas). 2023. <br/>
+*Forthcoming at **Economics & Human Biology***. <br/>
+<small>[ <a href="#/" onclick="visib('log0')">Abstract</a>] </small>
+
+<div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Depression in old age has negative individual and societal consequences. With ageing populations, understanding life course factors that raise the risk of clinical depression in old age may reduce healthcare costs and guide resources allocation. In this paper, we estimate the risk of self-reported depression by combining adult life course trajectories and childhood conditions in supervised machine learning algorithms. Our contribution is threefold. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we first implement and compare the performance of six alternative machine learning algorithms. Second, we analyse the performance of the algorithms using different life-course data configurations. While we obtain similar predictive abilities between algorithms, we achieve the highest models' performance when employing high-dimensional and less structured data. Finally, we use the SHAP (SHapley Additive exPlanations) method to extract the most decisive depressive patterns by gender. Age, health, childhood conditions, and low education predict most depression risk later in life. In addition, we identify new predictive patterns in high-frequency emotion-enhancing life events and low utilization of dental care services.
+</small><br><br/></div>
 
 # <center> Work in progress </center>
 
@@ -51,7 +50,7 @@ building more effective regional institutions.
 This paper explores the causal effect of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We capitalize on the UK eligibility age for the State Pension and the provisions of the UK 1995 and the UK 2011 Pension Acts, which increased retirement ages to a great extent. Fuzzy Regression Discontinuity Design estimates show maternal retirement increases adult children's life and income satisfaction by 0.22 and 0.19 standard deviations in the short run. Difference-in-differences estimate reveals that paternal retirement negatively impacts life and income satisfaction by 0.11 and 0.08 standard deviations. The well-being response is most significant for adult children in low-income bands, with childcare responsibilities, and living in close geographic proximity to their parents.
 </small><br><br/></div>
 
-**Small pictures, big biases: the unintended effects of an Airbnb anti-discrimination policy** (with Julio Garbers). 2023. <br/>
+**Small pictures, big biases: the adverse effects of an Airbnb anti-discrimination policy** (with Julio Garbers). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
 
 <div id="airbnb" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -70,7 +69,7 @@ The article provides a first quantification of the redistributive effects of aut
 
 **Spatial comprehensive well-being composite indicators: evidence from
 Italian provinces** (with Chiara Gigliarano). 2023. <br/>
-*Submitted at **Social Indicators Research***. <br/>
+*R&R at **Social Indicators Research***. <br/>
 <small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
 
 <div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
