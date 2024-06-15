@@ -34,10 +34,11 @@ In this lunch session, I illustrate the HPC computational abilities. I discuss s
 [slides]:{{ site.baseurl }}{% link assets/files/HPC_Talk_CompetenceCenter.pdf %}
 
 **Introduction to Machine learning methods** LISER training course, January 2023 <br/>
-<small>[ <a href="#/" onclick="visib('tutorial')">Tutorials</a> | [Overview][overview]]</small>
+<small> [ <a href="#/" onclick="visib('tutorial')">Tutorials</a> | [Overview][overview]]</small>
 
 <div id="tutorial" style="display: none; text-align: justify; line-height: 1.2">
-  <ul>
+  <ul>data.info)=
+  
     <li><a href="https://colab.research.google.com/drive/1DfI05FBO829VrpxRneV3d2pc9ZeIKrcn?usp=sharing">Predictor set</a></li>
     <li><a href="https://colab.research.google.com/drive/1A-6kw0lHkIZKnDqQmch3fcRT4r3QJrPR?usp=sharing">Cross-Validation</a></li>
     <li><a href="https://colab.research.google.com/drive/10Gdn7eGRXLO04OtVRuDilYtgsUIMk5nx?usp=sharing">Loss functions</a></li>

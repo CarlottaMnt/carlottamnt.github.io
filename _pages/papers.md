@@ -67,9 +67,9 @@ Using scraped data from the Airbnb platform in New York City alongside innovativ
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
 </small><br><br/></div>
 
-**Spatial comprehensive well-being composite indicators: evidence from
-Italian provinces** (with Chiara Gigliarano). 2023. <br/>
-*R&R at **Social Indicators Research***. <br/>
+**[Spatial comprehensive well-being composite indicators: evidence from
+Italian provinces](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Chiara Gigliarano) 2023. <br/>
+**Social Indicators Research**. <br/>
 <small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
 
 <div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
