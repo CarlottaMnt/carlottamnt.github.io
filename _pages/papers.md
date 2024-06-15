@@ -57,12 +57,12 @@ This paper explores the causal effect of parental retirement on adult children's
 Using scraped data from the Airbnb platform in New York City alongside innovative face classification algorithms, we show that Black minority hosts have a 6-percentage-point lower occupancy rate compared to their white counterparts, with no pricing differences. For Asians and Hispanics, no significant variations were found. Second, we examine the effect of an Airbnb design change, which reduces the prominence of profile pictures on users' personal pages. Difference-in-differences design and event-study methods reveal this intervention does not narrow the occupancy rate gap. Instead, it amplifies the White-Black disparity by 4 percentage points in the short run. Supporting this finding, we observe that Black hosts negatively affected by the design transformation reacted by offering more basic amenities for their listings immediately after the design transformation. Our research indicates that reducing picture prominence exacerbates biases in detecting positive facial cues from profile pictures, disproportionately impacting Black minority hosts.
 </small><br><br/></div>
 
-# <center> Pre-PhD Papers </center>
+# <center> Pre-PhD Publications </center>
 - - -
 
 **The resilience of the Italian social protection system at the beginning of COVID-19 outbreak: territorial evidence** (with Francesco Figari, Carlo Fiorio, Luca Gandullia). 2020 <br/>
 <small>[ <a href="#/" onclick="visib('resilience')">Abstract</a> | [Link](https://www.rivisteweb.it/doi/10.1429/97786){:target="_blank"}] </small>
-*Published at **Journal of Economic Policy***. 
+**Journal of Economic Policy***. 
 <div id="resilience" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
 </small><br><br/></div>
