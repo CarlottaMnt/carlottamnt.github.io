@@ -68,7 +68,7 @@ The article provides a first quantification of the redistributive effects of aut
 </small><br><br/></div>
 
 **[Spatial comprehensive well-being composite indicators: evidence from
-Italian provinces](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Chiara Gigliarano) 2023. <br/>
+Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5** (with Chiara Gigliarano) 2023. <br/>
 **Social Indicators Research**. <br/>
 <small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
 
