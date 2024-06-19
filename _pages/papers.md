@@ -41,9 +41,20 @@ building more effective regional institutions.
 Depression in old age has negative individual and societal consequences. With ageing populations, understanding life course factors that raise the risk of clinical depression in old age may reduce healthcare costs and guide resources allocation. In this paper, we estimate the risk of self-reported depression by combining adult life course trajectories and childhood conditions in supervised machine learning algorithms. Our contribution is threefold. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we first implement and compare the performance of six alternative machine learning algorithms. Second, we analyse the performance of the algorithms using different life-course data configurations. While we obtain similar predictive abilities between algorithms, we achieve the highest models' performance when employing high-dimensional and less structured data. Finally, we use the SHAP (SHapley Additive exPlanations) method to extract the most decisive depressive patterns by gender. Age, health, childhood conditions, and low education predict most depression risk later in life. In addition, we identify new predictive patterns in high-frequency emotion-enhancing life events and low utilization of dental care services.
 </small><br><br/></div>
 
+**[Spatial comprehensive well-being composite indicators: evidence from
+Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5** (with Chiara Gigliarano) 2023. <br/>
+**Social Indicators Research**. <br/>
+<small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
+
+<div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
+</small><br><br/></div>
+
+[spatial-draft]:{{ site.baseurl }}{% link assets/files/Spatial_indicator.pdf %}
+
 # <center> Work in progress </center>
 
-**The trickle down effects of parental retirement on adult children well-being: evidence from the UK** (with Andrew Clark). 2023. <br/>
+**The old folks at home: parental retirement and adult children well-being** (with Andrew Clark). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
 
 <div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -67,16 +78,7 @@ Using scraped data from the Airbnb platform in New York City alongside innovativ
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
 </small><br><br/></div>
 
-**[Spatial comprehensive well-being composite indicators: evidence from
-Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5** (with Chiara Gigliarano) 2023. <br/>
-**Social Indicators Research**. <br/>
-<small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
 
-<div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
-</small><br><br/></div>
-
-[spatial-draft]:{{ site.baseurl }}{% link assets/files/Spatial_indicator.pdf %}
 
 [//]: This java script is the button to show abstract
 <script>
