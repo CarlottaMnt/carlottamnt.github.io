@@ -44,7 +44,7 @@ Depression in old age has negative individual and societal consequences. With ag
 **[Spatial comprehensive well-being composite indicators: evidence from
 Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5)** (with Chiara Gigliarano) 2023. <br/>
 **Social Indicators Research**. <br/>
-<small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> | [Draft][spatial-draft] ] </small>
+<small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> ] </small>
 
 <div id="spatial" style="display: none; text-align: justify; line-height: 1.2" ><small>
 This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
