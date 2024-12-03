@@ -10,8 +10,8 @@ redirect_from:
 ---
 Hi, welcome to my home page! 
 
-I am a PhD candidate in Economics and Computational Social Sciences (Joint degree) at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and [Insubria University](https://www.uninsubria.it/), and part of the [DRIVEN](https://driven.uni.lu/) Doctoral Training Unit at the University of Luxembourg.
+I am a Postdoctoral Research Fellow at the University of Turin, Department of Economics and Statistics, and a Research Fellow at LISER (Luxembourg). 
 
-My interest lies at the intersection of applied microeconomics and machine learning, especially topics in Public Economics, Health Economics, and the Economics of Discrimination. 
+I completed my PhD in Economics and Computational Social Sciences (Joint degree) at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and [Insubria University](https://www.uninsubria.it/), as a part of the [DRIVEN](https://driven.uni.lu/) Doctoral Training Unit at the University of Luxembourg.
 
-Before making my way to Luxembourg, I earned my Master's degree in Economics and Social Sciences from Bocconi University in Milan.
+My interest lies at the intersection of **applied microeconomics** and **machine learning**, especially topics in Labour Economics, and the Economics of Discrimination. My current research aims at developing state-of-the-art machine learning methods trained on administrative data to address socio-economic questions.
