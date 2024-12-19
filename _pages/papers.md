@@ -14,7 +14,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 **The old folks at home: parental retirement and adult children well-being** (with Andrew Clark). 2023. <br/>
-*Submitted*. <br/>
+*Revise and Resubmit*. <br/>
 <small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
 
 <div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -24,7 +24,7 @@ This paper explores the causal effect of parental retirement on adult children's
 
 **Quality of government for environmental well-being?
 Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
-*Submitted*. <br/>
+*Revise and Resubmit*. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
