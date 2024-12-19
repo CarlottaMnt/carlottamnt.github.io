@@ -13,6 +13,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Working Papers </center>
 - - -
+**The old folks at home: parental retirement and adult children well-being** (with Andrew Clark). 2023. <br/>
+*Submitted*. <br/>
+<small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
+
+<div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This paper explores the causal effect of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We capitalize on the UK eligibility age for the State Pension and the provisions of the UK 1995 and the UK 2011 Pension Acts, which increased retirement ages to a great extent. Fuzzy Regression Discontinuity Design estimates show maternal retirement increases adult children's life and income satisfaction by 0.22 and 0.19 standard deviations in the short run. Difference-in-differences estimate reveals that paternal retirement negatively impacts life and income satisfaction by 0.11 and 0.08 standard deviations. The well-being response is most significant for adult children in low-income bands, with childcare responsibilities, and living in close geographic proximity to their parents.
+</small><br><br/></div>
+
+
 **Quality of government for environmental well-being?
 Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
 *Submitted*. <br/>
@@ -52,12 +61,6 @@ This paper proposes spatial comprehensive composite indicators to evaluate the w
 
 # <center> Work in progress </center>
 
-**The old folks at home: parental retirement and adult children well-being** (with Andrew Clark). 2023. <br/>
-<small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
-
-<div id="retirement" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper explores the causal effect of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We capitalize on the UK eligibility age for the State Pension and the provisions of the UK 1995 and the UK 2011 Pension Acts, which increased retirement ages to a great extent. Fuzzy Regression Discontinuity Design estimates show maternal retirement increases adult children's life and income satisfaction by 0.22 and 0.19 standard deviations in the short run. Difference-in-differences estimate reveals that paternal retirement negatively impacts life and income satisfaction by 0.11 and 0.08 standard deviations. The well-being response is most significant for adult children in low-income bands, with childcare responsibilities, and living in close geographic proximity to their parents.
-</small><br><br/></div>
 
 **Small pictures, big biases: the adverse effects of an Airbnb anti-discrimination policy** (with Julio Garbers). 2023. <br/>
 <small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
@@ -71,7 +74,7 @@ Using scraped data from the Airbnb platform in New York City alongside innovativ
 
 **The resilience of the Italian social protection system at the beginning of COVID-19 outbreak: territorial evidence** (with Francesco Figari, Carlo Fiorio, Luca Gandullia). 2020 <br/>
 <small>[ <a href="#/" onclick="visib('resilience')">Abstract</a> | [Link](https://www.rivisteweb.it/doi/10.1429/97786){:target="_blank"}] </small>
-**Journal of Economic Policy***. 
+**Journal of Economic Policy**. 
 <div id="resilience" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
 </small><br><br/></div>
