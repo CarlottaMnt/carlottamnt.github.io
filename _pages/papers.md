@@ -22,24 +22,6 @@ This paper explores the causal effect of parental retirement on adult children's
 </small><br><br/></div>
 
 
-**Quality of government for environmental well-being?
-Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
-*Revise and Resubmit*. <br/>
-<small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
-
-<div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This study investigates the relationship between quality of government and
-environmental wellbeing in 233 European regions at the NUTS-2 level. We find
-that subnational environmental data is spatially interdependent and construct a set
-of composite indicators of environmental wellbeing through Bayesian spatial factor
-analysis. By using these composite indicators in linear regressions, we demonstrate
-that institutional quality is a key determinant of environmental wellbeing. We also
-find that the institutions-environment nexus varies across dimensions of
-environmental wellbeing – institutions matter especially for air and soil quality.
-Policymakers should be aware that environmental destruction can be tackled by
-building more effective regional institutions.
-</small><br><br/></div>
-
 # <center> Publications </center>
 
 **[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Alessio Fusco, Philippe Van Kerm, and Stéphane Bordas). 2023. <br/>
@@ -59,6 +41,23 @@ Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5)
 This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
 </small><br><br/></div>
 
+**Quality of government for environmental well-being?
+Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
+Forthcoming in **Regional Studies, Regional Science**. <br/>
+<small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
+
+<div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
+This study investigates the relationship between quality of government and
+environmental wellbeing in 233 European regions at the NUTS-2 level. We find
+that subnational environmental data is spatially interdependent and construct a set
+of composite indicators of environmental wellbeing through Bayesian spatial factor
+analysis. By using these composite indicators in linear regressions, we demonstrate
+that institutional quality is a key determinant of environmental wellbeing. We also
+find that the institutions-environment nexus varies across dimensions of
+environmental wellbeing – institutions matter especially for air and soil quality.
+Policymakers should be aware that environmental destruction can be tackled by
+building more effective regional institutions.
+</small><br><br/></div>
 # <center> Work in progress </center>
 
 
