@@ -24,7 +24,7 @@ This paper explores the causal effect of parental retirement on adult children's
 
 # <center> Publications </center>
 
-**[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Alessio Fusco, Philippe Van Kerm, and Stéphane Bordas). 2023. <br/>
+**[Predicting depression in old age: combining life-course data with machine learning](https://www.sciencedirect.com/science/article/pii/S1570677X23001120?via%3Dihub)** (with Alessio Fusco, Philippe Van Kerm, and Stéphane Bordas). 2024. <br/>
 **Economics & Human Biology**. <br/>
 <small>[ <a href="#/" onclick="visib('log0')">Abstract</a>] </small>
 
@@ -32,8 +32,7 @@ This paper explores the causal effect of parental retirement on adult children's
 Depression in old age has negative individual and societal consequences. With ageing populations, understanding life course factors that raise the risk of clinical depression in old age may reduce healthcare costs and guide resources allocation. In this paper, we estimate the risk of self-reported depression by combining adult life course trajectories and childhood conditions in supervised machine learning algorithms. Our contribution is threefold. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we first implement and compare the performance of six alternative machine learning algorithms. Second, we analyse the performance of the algorithms using different life-course data configurations. While we obtain similar predictive abilities between algorithms, we achieve the highest models' performance when employing high-dimensional and less structured data. Finally, we use the SHAP (SHapley Additive exPlanations) method to extract the most decisive depressive patterns by gender. Age, health, childhood conditions, and low education predict most depression risk later in life. In addition, we identify new predictive patterns in high-frequency emotion-enhancing life events and low utilization of dental care services.
 </small><br><br/></div>
 
-**[Spatial comprehensive well-being composite indicators: evidence from
-Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5)** (with Chiara Gigliarano) 2023. <br/>
+**[Spatial comprehensive well-being composite indicators: evidence from Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5)** (with Chiara Gigliarano) 2024. <br/>
 **Social Indicators Research**. <br/>
 <small>[ <a href="#/" onclick="visib('spatial')">Abstract</a> ] </small>
 
@@ -41,9 +40,8 @@ Italian provinces](https://link.springer.com/article/10.1007/s11205-023-03285-5)
 This paper proposes spatial comprehensive composite indicators to evaluate the wellbeing levels and ranking of Italian provinces with data from the Equitable and Sustainable Well-Being (BES) dashboard. We use a method based on Bayesian latent factor models, which allow us to include spatial dependence across Italian provinces, quantify uncertainty in the resulting estimates, and estimate data-driven weights for elementary indicators. The results reveal that the inclusion of spatial information changes the resulting composite indicator rankings compared to those produced by traditional composite indicators’ approaches. Estimated social and economic well-being is unequally distributed among southern and northern Italian provinces. In contrast, the environmental dimension appears less spatially clustered, and its composite indicators also reach above average levels in the southern provinces. The time series of well-being composite indicators of Italian macro-areas shows clustering and macro-areas discrimination on larger territorial units.
 </small><br><br/></div>
 
-**Quality of government for environmental well-being?
-Subnational evidence from european regions** (with Andrea Vaccaro, and Chiara Gigliarano). 2023. <br/>
-Forthcoming in **Regional Studies, Regional Science**. <br/>
+**[Quality of government for environmental well-being? Subnational evidence from European regions](https://www.tandfonline.com/doi/full/10.1080/21681376.2025.2475113)** (with Andrea Vaccaro, and Chiara Gigliarano). 2025. <br/>
+**Regional Studies, Regional Science**. <br/>
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
