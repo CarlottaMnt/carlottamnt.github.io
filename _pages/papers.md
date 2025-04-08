@@ -45,16 +45,7 @@ This paper proposes spatial comprehensive composite indicators to evaluate the w
 <small>[ <a href="#/" onclick="visib('environmental')">Abstract</a> ] </small>
 
 <div id="environmental" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This study investigates the relationship between quality of government and
-environmental wellbeing in 233 European regions at the NUTS-2 level. We find
-that subnational environmental data is spatially interdependent and construct a set
-of composite indicators of environmental wellbeing through Bayesian spatial factor
-analysis. By using these composite indicators in linear regressions, we demonstrate
-that institutional quality is a key determinant of environmental wellbeing. We also
-find that the institutions-environment nexus varies across dimensions of
-environmental wellbeing – institutions matter especially for air and soil quality.
-Policymakers should be aware that environmental destruction can be tackled by
-building more effective regional institutions.
+This study investigates the relationship between quality of government and environmental wellbeing in 233 European regions at the NUTS-2 level. We find that subnational environmental data is spatially interdependent and construct a set of composite indicators of environmental wellbeing through Bayesian spatial factor analysis. By using these composite indicators in linear regressions, we demonstrate that institutional quality is a key determinant of environmental wellbeing. We also find that the institutions-environment nexus varies across dimensions of environmental wellbeing – institutions matter especially for air and soil quality. Policymakers should be aware that environmental destruction can be tackled by building more effective regional institutions.
 </small><br><br/></div>
 # <center> Work in progress </center>
 
@@ -69,8 +60,8 @@ Using scraped data from the Airbnb platform in New York City alongside innovativ
 # <center> Pre-PhD Publications </center>
 - - -
 
-**The resilience of the Italian social protection system at the beginning of COVID-19 outbreak: territorial evidence** (with Francesco Figari, Carlo Fiorio, Luca Gandullia). 2020 <br/>
-<small>[ <a href="#/" onclick="visib('resilience')">Abstract</a> | [Link](https://www.rivisteweb.it/doi/10.1429/97786){:target="_blank"}] </small>
+**[The resilience of the Italian social protection system at the beginning of COVID-19 outbreak: territorial evidence](https://www.rivisteweb.it/doi/10.1429/97786)** (with Francesco Figari, Carlo Fiorio, Luca Gandullia). 2020 <br/>
+<small>[ <a href="#/" onclick="visib('resilience')">Abstract</a> ] | </small>
 **Journal of Economic Policy**. 
 <div id="resilience" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The article provides a first quantification of the redistributive effects of automatic stabilizers and discretional policies imposed by the Italian government to limit the diffusion of COVID-19 in March 2020 and to compensate for income losses of individuals affected by the shutdown. In particular, we analyse the short term impact on family incomes, using the Italian module of EUROMOD which allow us to simulate the effects on incomes, poverty risks and inequality based on IT-SILC data combined with relevant information needed to identify the workers affected by the shutdown. The article provides timely evidence of the resilience of the Italian welfare state in the different geographical areas of the country facing an asymmetric shock, particularly strong from an economic perspective for some families and less for others even in the presence of compensative policies introduced by the government.
