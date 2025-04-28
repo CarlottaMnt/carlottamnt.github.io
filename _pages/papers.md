@@ -57,6 +57,13 @@ This study investigates the relationship between quality of government and envir
 Using scraped data from the Airbnb platform in New York City alongside innovative face classification algorithms, we show that Black minority hosts have a 6-percentage-point lower occupancy rate compared to their white counterparts, with no pricing differences. For Asians and Hispanics, no significant variations were found. Second, we examine the effect of an Airbnb design change, which reduces the prominence of profile pictures on users' personal pages. Difference-in-differences design and event-study methods reveal this intervention does not narrow the occupancy rate gap. Instead, it amplifies the White-Black disparity by 4 percentage points in the short run. Supporting this finding, we observe that Black hosts negatively affected by the design transformation reacted by offering more basic amenities for their listings immediately after the design transformation. Our research indicates that reducing picture prominence exacerbates biases in detecting positive facial cues from profile pictures, disproportionately impacting Black minority hosts.
 </small><br><br/></div>
 
+**Generative AI Model for Counterfactual Simulation: an application on Italian Administrative Data** (with Alberto Cabezas). 2024. <br/>
+<small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
+
+<div id="genAI" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Traditional econometric methods rely on surveys and administrative data to evaluate policy interventions and estimate causal effects, often depending on strong assumptions or the existence of suitable control groups. In this paper, we propose a novel approach that leverages a generative Transformer model to simulate counterfactual life trajectories from large-scale administrative records. Our key contribution lies in the design of a novel encoding method tailored to longitudinal data drawn from the Istituto Nazionale Previdenza Sociale (INPS), enabling realistic and coherent life trajectory generation. This framework offers a scalable alternative to classical causal identification strategies—such as difference-in-differences and synthetic controls—particularly in contexts where these methods are infeasible or their assumptions unverifiable. We validate the model’s utility by comparing generated counterfactuals against established findings from causal studies, demonstrating its potential to enrich labor market research and policy evaluation through individual-level simulations.
+</small><br><br/></div>
+
 # <center> Pre-PhD Publications </center>
 - - -
 
