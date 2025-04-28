@@ -58,7 +58,7 @@ Using scraped data from the Airbnb platform in New York City alongside innovativ
 </small><br><br/></div>
 
 **Generative AI Model for Counterfactual Simulation: an application on Italian Administrative Data** (with Alberto Cabezas). 2024. <br/>
-<small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
+<small>[ <a href="#/" onclick="visib('genAI')">Abstract</a> ] </small>
 
 <div id="genAI" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Traditional econometric methods rely on surveys and administrative data to evaluate policy interventions and estimate causal effects, often depending on strong assumptions or the existence of suitable control groups. In this paper, we propose a novel approach that leverages a generative Transformer model to simulate counterfactual life trajectories from large-scale administrative records. Our key contribution lies in the design of a novel encoding method tailored to longitudinal data drawn from the Istituto Nazionale Previdenza Sociale (INPS), enabling realistic and coherent life trajectory generation. This framework offers a scalable alternative to classical causal identification strategies—such as difference-in-differences and synthetic controls—particularly in contexts where these methods are infeasible or their assumptions unverifiable. We validate the model’s utility by comparing generated counterfactuals against established findings from causal studies, demonstrating its potential to enrich labor market research and policy evaluation through individual-level simulations.
