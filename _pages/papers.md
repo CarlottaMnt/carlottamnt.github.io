@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 # <center> Working Papers </center>
 - - -
-**The old folks at home: parental retirement and adult children well-being** (with Andrew Clark). 2023. <br/>
+**The old folks at home: parental retirement and adult children well-being** (with Andrew Clark). <br/>
 *Revise and Resubmit*. <br/>
 <small>[ <a href="#/" onclick="visib('retirement')">Abstract</a> ] </small>
 
@@ -21,7 +21,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 This paper explores the causal effect of parental retirement on adult children's well-being, an area primarily overlooked in current literature. As societies age and retirement rates increase, policymakers concerned with the financial sustainability of pension systems must comprehend these ripple effects. We capitalize on the UK eligibility age for the State Pension and the provisions of the UK 1995 and the UK 2011 Pension Acts, which increased retirement ages to a great extent. Fuzzy Regression Discontinuity Design estimates show maternal retirement increases adult children's life and income satisfaction by 0.22 and 0.19 standard deviations in the short run. Difference-in-differences estimate reveals that paternal retirement negatively impacts life and income satisfaction by 0.11 and 0.08 standard deviations. The well-being response is most significant for adult children in low-income bands, with childcare responsibilities, and living in close geographic proximity to their parents.
 </small><br><br/></div>
 
-**[Life Sequence Transformer: Generative Modelling for Counterfactual Simulation](https://arxiv.org/abs/2506.01874)** (with Alberto Cabezas). 2024. <br/>
+**Small pictures, big biases: the adverse effects of an Airbnb anti-discrimination policy** (with Julio Garbers). <br/>
+*Submitted*. <br/>
+<small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
+
+<div id="airbnb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Using scraped data from the Airbnb platform in New York City alongside innovative face classification algorithms, we show that Black minority hosts have a 6-percentage-point lower occupancy rate compared to their white counterparts, with no pricing differences. For Asians and Hispanics, no significant variations were found. Second, we examine the effect of an Airbnb design change, which reduces the prominence of profile pictures on users' personal pages. Difference-in-differences design and event-study methods reveal this intervention does not narrow the occupancy rate gap. Instead, it amplifies the White-Black disparity by 4 percentage points in the short run. Supporting this finding, we observe that Black hosts negatively affected by the design transformation reacted by offering more basic amenities for their listings immediately after the design transformation. Our research indicates that reducing picture prominence exacerbates biases in detecting positive facial cues from profile pictures, disproportionately impacting Black minority hosts.
+</small><br><br/></div>
+
+
+**[Life Sequence Transformer: Generative Modelling for Counterfactual Simulation](https://arxiv.org/abs/2506.01874)** (with Alberto Cabezas). <br/>
 <small>[ <a href="#/" onclick="visib('genAI')">Abstract</a> ] </small>
 
 <div id="genAI" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -54,15 +63,6 @@ This paper proposes spatial comprehensive composite indicators to evaluate the w
 This study investigates the relationship between quality of government and environmental wellbeing in 233 European regions at the NUTS-2 level. We find that subnational environmental data is spatially interdependent and construct a set of composite indicators of environmental wellbeing through Bayesian spatial factor analysis. By using these composite indicators in linear regressions, we demonstrate that institutional quality is a key determinant of environmental wellbeing. We also find that the institutions-environment nexus varies across dimensions of environmental wellbeing – institutions matter especially for air and soil quality. Policymakers should be aware that environmental destruction can be tackled by building more effective regional institutions.
 </small><br><br/></div>
 
-# <center> Work in progress </center>
-
-
-**Small pictures, big biases: the adverse effects of an Airbnb anti-discrimination policy** (with Julio Garbers). 2023. <br/>
-<small>[ <a href="#/" onclick="visib('airbnb')">Abstract</a> ] </small>
-
-<div id="airbnb" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Using scraped data from the Airbnb platform in New York City alongside innovative face classification algorithms, we show that Black minority hosts have a 6-percentage-point lower occupancy rate compared to their white counterparts, with no pricing differences. For Asians and Hispanics, no significant variations were found. Second, we examine the effect of an Airbnb design change, which reduces the prominence of profile pictures on users' personal pages. Difference-in-differences design and event-study methods reveal this intervention does not narrow the occupancy rate gap. Instead, it amplifies the White-Black disparity by 4 percentage points in the short run. Supporting this finding, we observe that Black hosts negatively affected by the design transformation reacted by offering more basic amenities for their listings immediately after the design transformation. Our research indicates that reducing picture prominence exacerbates biases in detecting positive facial cues from profile pictures, disproportionately impacting Black minority hosts.
-</small><br><br/></div>
 
 # <center> Pre-PhD Publications </center>
 - - -
