@@ -35,7 +35,7 @@ A 2018 Airbnb design intervention reduced the size of the host profile picture, 
 </small><br><br/></div>
 
 
-**[Life Sequence Transformer: Generative Modelling for Counterfactual Simulation](https://arxiv.org/abs/2506.01874)** (with Alberto Cabezas). <br/>
+**[Life sequence transformer: generative modelling for counterfactual simulation](https://arxiv.org/abs/2506.01874)** (with Alberto Cabezas). <br/>
 <small>[ <a href="#/" onclick="visib('genAI')">Abstract</a> ] </small>
 
 <div id="genAI" style="display: none; text-align: justify; line-height: 1.2" ><small>
