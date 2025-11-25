@@ -10,8 +10,10 @@ redirect_from:
 ---
 Hi, welcome to my home page! 
 
-I am a postdoctoral researcher at the University of Turin, Department of Economics and Statistics, and LISER fellow (Luxembourg). 
+I am a Research Associate at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/), wokring in the Department of [Living Coditions](https://www.liser.lu/living-conditions). 
 
-I completed my PhD in Economics and Computational Social Sciences (Joint degree) at the [Luxembourg Institute of Socio-Economic Research](https://www.liser.lu/) (LISER) and [Insubria University](https://www.uninsubria.it/), as a part of the [DRIVEN](https://driven.uni.lu/) Doctoral Training Unit at the University of Luxembourg.
+I hold a joint PhD in Economics and Computational Social Sciences (Joint degree) from LISER and [Insubria University](https://www.uninsubria.it/), completed within the[DRIVEN](https://driven.uni.lu/) Doctoral Training Unit at the University of Luxembourg.
 
-My interest lies at the intersection of **applied microeconomics** and **machine learning**, especially topics in Labour Economics, and the Economics of Discrimination. My current research aims at developing state-of-the-art transformer based methods trained on Italian Social Security data to address economic questions.
+My work sits at the crossroads of **applied microeconomics** and **machine learning**, with a particular focus on labour economics and the economics of discrimination. Currently, I study how AI-driven hiring tools can shape diversity in the labour market. In previous projects, I developed state-of-the-art generative transformer trained on Italian Social Security data to investigate complex economic questions.
+
+Feel free to get in touch if you’re exploring AI-driven approaches to economic questions!
